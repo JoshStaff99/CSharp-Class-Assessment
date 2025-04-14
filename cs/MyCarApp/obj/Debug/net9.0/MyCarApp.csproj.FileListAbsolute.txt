@@ -1,0 +1,15 @@
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\bin\Debug\net9.0\MyCarApp.exe
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\bin\Debug\net9.0\MyCarApp.deps.json
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\bin\Debug\net9.0\MyCarApp.runtimeconfig.json
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\bin\Debug\net9.0\MyCarApp.dll
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\bin\Debug\net9.0\MyCarApp.pdb
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.AssemblyInfoInputs.cache
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.AssemblyInfo.cs
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.sourcelink.json
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.dll
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\refint\MyCarApp.dll
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.pdb
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\MyCarApp.genruntimeconfig.cache
+D:\Work\GitHub\CSharp-Class-Assessment\cs\MyCarApp\obj\Debug\net9.0\ref\MyCarApp.dll
