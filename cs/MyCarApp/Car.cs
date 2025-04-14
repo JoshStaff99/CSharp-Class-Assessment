@@ -2,7 +2,7 @@ using System;
 
 public class Car
 {
-    // Fields (or you can use properties instead)
+    // Fields
     private string make;
     private string model;
     private string registration;

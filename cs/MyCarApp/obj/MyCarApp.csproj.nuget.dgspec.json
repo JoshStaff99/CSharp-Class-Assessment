@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\GitHub\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj": {}
+    "C:\\josh work\\GitHub Projects\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj": {}
   },
   "projects": {
-    "D:\\Work\\GitHub\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj": {
+    "C:\\josh work\\GitHub Projects\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\GitHub\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj",
+        "projectUniqueName": "C:\\josh work\\GitHub Projects\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj",
         "projectName": "MyCarApp",
-        "projectPath": "D:\\Work\\GitHub\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj",
+        "projectPath": "C:\\josh work\\GitHub Projects\\CSharp-Class-Assessment\\cs\\MyCarApp\\MyCarApp.csproj",
         "packagesPath": "C:\\Users\\neves\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\GitHub\\CSharp-Class-Assessment\\cs\\MyCarApp\\obj\\",
+        "outputPath": "C:\\josh work\\GitHub Projects\\CSharp-Class-Assessment\\cs\\MyCarApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neves\\AppData\\Roaming\\NuGet\\NuGet.Config"
